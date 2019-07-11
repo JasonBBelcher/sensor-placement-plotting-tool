@@ -1,0 +1,45 @@
+
+
+  body {
+
+    font-size: 10pt;
+    background-image: linear-gradient(rgba(181, 173, 185, 0.4), rgba(89, 0, 255, 0.2));
+    font-family: 'ZCOOL QingKe HuangYou', cursive Arial;
+}
+
+.jumbotron {
+  background-image: linear-gradient(rgba(122, 70, 165, 0.4), rgba(100, 76, 145, 0.2))
+}
+
+pre {
+  font-size: 6pt;
+}
+
+#canvas-container {
+  margin-bottom: 20px;
+  background: transparent;
+}
+
+label p {
+  font-size: 1.5em;
+  font-weight: 600;
+  margin-top: 0.2em;
+}
+
+#errors {
+  font-size: 2em;
+  position: fixed;
+  display: none;
+  background: rgba(255, 0, 0, 0.2);
+  border-radius: 2%;
+  padding: 10px;
+}
+
+#confirm {
+  font-size: 2em;
+  position: fixed;
+  display: none;
+  background: rgba(90, 25, 194, 0.2);
+  border-radius: 2%;
+  padding: 10px;
+}
