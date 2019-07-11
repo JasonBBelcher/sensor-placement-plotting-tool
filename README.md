@@ -1,4 +1,4 @@
-# IoT deployment documentation tool
+# Map documentation tool
 
 
 This tool was built while also supporting network cabling teams around the country to give the team a way to easily document installations and stand up custom grafana panels. 
